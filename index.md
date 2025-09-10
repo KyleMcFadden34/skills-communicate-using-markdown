@@ -6,7 +6,9 @@
 var myVar = "Hello, world!";
 ```
 
-
+- [ ] Do HW #2
+- [ ] Do HW #3
+- [ ] Do HW #4
 
 
 
@@ -18,5 +20,6 @@ var myVar = "Hello, world!";
 
 
 I have used markdown to make headers.
+
 
 
